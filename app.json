@@ -1,0 +1,24 @@
+{
+  "project_name": "AgriSense AI - Smart Farming Advisory System",
+  "problem_statement_no": 14,
+  "team_name": "Your Team Name",
+  "description": "An Agentic AI powered Smart Farming Advisory System using LangFlow, RAG and IBM Granite Models to provide personalized crop recommendations, weather-based irrigation advice, pest detection support, and agricultural knowledge retrieval.",
+  "technologies": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite",
+    "RAG",
+    "ChromaDB",
+    "OpenWeather API",
+    "Python",
+    "Gradio"
+  ],
+  "features": [
+    "Agricultural Knowledge Retrieval",
+    "Weather Advisory",
+    "Personalized Crop Recommendations",
+    "Multi-Agent Architecture",
+    "Market Insights"
+  ],
+  "repository_type": "FDP Project"
+}
